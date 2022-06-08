@@ -2,7 +2,7 @@
 
 This is the tutorial for Python and Pygame for the beginners.
 
-The tutorial is published at https://becomingpygamer.books.tiainen.cc/
+The tutorial is published at https://becoming-pygamer.readthedocs.io/en/latest/
 
 The tutorial is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
