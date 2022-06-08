@@ -5,17 +5,16 @@ verify_ssl = true
 
 [dev-packages]
 doc8 = "*"
-docutils = "*"
 ipython = "*"
 pylint = "*"
 pygame = "==2.0.0"
 sphinx-autobuild = "*"
 
 [packages]
-sphinx = "*"
+sphinx = "==5.0.1"
 pygments = "*"
-cloud-sptheme = "*"
 sphinxcontrib-fulltoc = "*"
+cloud-sptheme = {git = "https://github.com/jtiai/cloudsp-theme.git"}
 
 [requires]
 python_version = "3.9"
